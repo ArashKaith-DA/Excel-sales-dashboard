@@ -54,4 +54,4 @@ This project demonstrates the use of Microsoft Excel for organizing sales data, 
 
 ## Dashboard Preview
 
-![Excel Sales Dashboard](excel-dashboard.png)
+![Excel Sales Dashboard](salesdashboard.png)
