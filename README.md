@@ -52,6 +52,4 @@ Contains the underlying sales records, including:
 
 This project demonstrates the use of Microsoft Excel for organizing sales data, evaluating performance, and presenting business information in a dashboard format.
 
-## Dashboard Preview
 
-![Excel Sales Dashboard](sales-dashboard.png)
